@@ -12,11 +12,14 @@
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3"
   },
+  "homepage": "http://smartsri18.github.io/my-portfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "my-portfolio -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
