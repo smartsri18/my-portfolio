@@ -1,0 +1,123 @@
+{
+  "main": {
+    "name":"Sridharan G",
+    "occupation":"",
+    "description":"I love to work on any new tech stack, which admires me most. I'm looking for a full-time offer on the SDE role in my favorite tech stack.",
+    "image":"profile_pic.jpg",
+    "bio":"Myself I'm Sridharan Gopal, who has passionate to work on development role. I love to work any new tech stack, which admires me most. I have completed two internships as a developer. For now, my short term goal is to get the job in a reputed company and my long term goal is to be a knowledgeable person to crack any sort of issues. Meantime I like to watch time travel concept series(Flash), movies, and love to play cricket and badminton.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "sridharan479@gmail.com",
+    "phone": "+91 8807226275",
+    "address":{
+      "street":"Mahalakshmi Nagar, Bajanai kovil St, Ramapuram",
+      "city":"Chennai",
+      "state":"Tamil Nadu",
+      "zip": "600089"
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/1iDfoZbXYwqWyRIPwLOuVHdQNZ9xKoFMT/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sridharan-gopal-13780a161/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/smartsri18",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/jack.sri.509",
+        "className":"fa fa-facebook"
+      },{
+        "name":"team-tomato",
+        "url":"https://teamtomato.tech/",
+        "className":"fa fa-globe"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"College of Engineering Guindy",
+        "degree":"Master of Science in Computer Science (5years Integrated)",
+        "graduated":"April 2020",
+        "description":"After completion of my HSC, I joined CEG, One of the greatest and old epic college. Here I enriched my knowledge on theoretical concepts of computer science and also we have core papers on Mathematics (M! series & much more). I have hands-on experience in C, C++, Java, SQL, Data Structures, and ML subjects. I have done mini projects like File Convertor, Location Tracker & etc. I have contributed in building a symposium website and library web application to our department. What an atmosphere!, I have great friends and a love of joy in CEG!"
+      }
+    ],
+    "work":[
+      {
+        "company":"F22 Labs",
+        "title":"Back-end Developer - Intern",
+        "years":"Jan 2020 - July 2020",
+        "description":"Here I worked as a Back-end developer (Ruby on Rails). Initially, I felt weird to use the rails framework because I know Python Django framework, it is quite similar and I felt Django is better.  Here I learned how to kick off a project successfully from scratch and also the flow of software engineering concepts applied (finally my college theory concepts are useful!). While I assigned to a project with the senior developer (geeks) and our requirement is to make a centralized portal for wineries for tasting experience. we accomplished this project by this stack Ruby on Rails, GraphQL, MySQL, Docker. Here I explored Ruby on Rails, GraphQL, Docker, CI/CD, Git commands. Finally, I love to work in Ruby on rails framework."
+      },
+      {
+        "company":"Power of N",
+        "title":"Fullstack Developer - Intern",
+        "years":"May 2018 - Nov 2018",
+        "description":"Here I have worked as a Full-stack Developer. I have a chance to dig the Python and Django framework and made my hands dirty with a simple application. I have gained knowledge of how web development works, Even I have experienced with HTML, CSS, Javascript with basic stuff to build a website. Then worked with a senior developer in the replication of Git book website for managing company his own projects version and features upgrade, to wrap-up this project we use Django framework for the backend. At the end, we accomplished the project with all requirements for v1. From this Intern period, I enriched about web development processes and cloud Infrastructure."
+      }
+    ],
+    "skillmessage":"I have made my hands dirty with these technologies and developed a few projects on each category. Even though I love to work on a new stack, but most preferably I will stick to below-listed stacks!",
+    "favouriteTech":[
+      {
+        "name":"Ruby on Rails",
+        "images": "Ruby_on_Rails.png"
+      },
+      {
+        "name":"Git",
+        "images": "git.jpg"
+      },
+      {
+        "name":"MySQL",
+        "images": "mysql.png"
+      },
+      {
+        "name":"React JS",
+        "images": "react.jpg"
+      },
+      {
+        "name":"Heroku",
+        "images": "heroku.jpg"
+      },
+      {
+        "name":"Bootstrap 4",
+        "images": "bootstrap.jpg"
+      },{
+        "name":"Python",
+        "images": "python.png"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"MyShelf",
+        "category":"Users Collection Pocket, where user can list their favourite items( like books, movies, news)",
+        "faIcon":"fa-book",
+        "url":"https://github.com/smartsri18/myshelf-api"
+      },
+      {
+        "title":"Location Tracker",
+        "category":"Android application to track location of your friend or family member.",
+        "faIcon":"fa-map-marker",
+        "url":"https://github.com/smartsri18/Map_TL"
+      },
+      {
+        "title":"File Convertor",
+        "category":"Markdown to HTML convertor and vice versa.",
+        "faIcon":"fa-file",
+        "url":"https://github.com/smartsri18/FileConvertor"
+      },
+      {
+        "title":"Lib Management - UI",
+        "category":"Simple UI for login and signup model.",
+        "faIcon":"fa-laptop",
+        "url":"https://github.com/smartsri18/Lib_management"
+      }
+    ]
+  }
+}
