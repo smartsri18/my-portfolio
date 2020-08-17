@@ -23,8 +23,8 @@ class Resume extends Component{
       var favouriteTech = this.props.data.favouriteTech.map(function(tech){
         return (
             <SplideSlide>
-              <div key={tech.name} class="columns feature-item">
-                <img class="skill min-ratio-img-slides" alt={tech.name} src={"images/"+tech.images}/>
+              <div key={tech.name} className="columns feature-item">
+                <img className="skill min-ratio-img-slides" alt={tech.name} src={"images/"+tech.images}/>
                 <h5>{tech.name}</h5>
               </div>
             </SplideSlide>
